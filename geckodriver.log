@@ -228,3 +228,56 @@ JavaScript error: https://static.arxiv.org/MathJax-2.7.3/MathJax.js, line 19: In
 1723184661213	Marionette	INFO	Stopped listening on port 55034
 Dynamically enable window occlusion 1
 JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 47: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1723187578661	geckodriver	INFO	Listening on 127.0.0.1:55605
+1723187581725	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofilewjGUZw"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1723187582152	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1723187582258	Marionette	INFO	Listening on port 55620
+Read port: 55620
+1723187582441	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1723187592451	Marionette	INFO	Stopped listening on port 55620
+Dynamically enable window occlusion 1
+1723187996562	geckodriver	INFO	Listening on 127.0.0.1:55716
+1723187999608	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofileAgE13B"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1723187999973	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1723188000086	Marionette	INFO	Listening on port 55726
+Read port: 55726
+1723188000278	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1723188030249	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+Exiting due to channel error.
+Exiting due to channel error.
+1723188104940	geckodriver	INFO	Listening on 127.0.0.1:55786
+1723188107961	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofile5afyfA"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1723188108280	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1723188108375	Marionette	INFO	Listening on port 55796
+Read port: 55796
+1723188108540	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1723188138401	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1723188165317	geckodriver	INFO	Listening on 127.0.0.1:55853
+1723188168357	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofileGITVpu"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1723188168747	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1723188168842	Marionette	INFO	Listening on port 55863
+Read port: 55863
+1723188168996	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static.arxiv.org/MathJax-2.7.3/MathJax.js, line 19: InternalError: too much recursion
+1723188198799	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1723188212386	Marionette	INFO	Stopped listening on port 55863
+JavaScript warning: https://static.arxiv.org/MathJax-2.7.3/MathJax.js, line 19: Script terminated by timeout at:
+cb@https://static.arxiv.org/MathJax-2.7.3/MathJax.js:19:2784
+
+Dynamically enable window occlusion 1
