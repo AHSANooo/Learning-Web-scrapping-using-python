@@ -77,5 +77,8 @@ If you have any questions or run into issues, feel free to [open an issue](https
 
 ## Video Demo
 
+Watch the project in action:
+
+[![Web Scraping Tutorial](https://img.youtube.com/vi/zIbxi_Lhzp8/0.jpg)](https://youtu.be/zIbxi_Lhzp8)
 
 Happy Scraping!
